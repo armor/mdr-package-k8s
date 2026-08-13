@@ -5,7 +5,7 @@
   "description": "Contains modules for deploying and managing Kubernetes application resources.",
   "repository": {
     "type": "git",
-    "url": "git@github.com:quantum-sec/package-k8s.git"
+    "url": "git@github.com:armor/mdr-package-k8s.git"
   },
   "author": "Quantum Security Pte. Ltd.",
   "license": "SEE LICENSE IN LICENSE",
